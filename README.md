@@ -124,4 +124,7 @@
 | | SPI	| Src. Address | Dst. Address |Auth. Algorithm | Encr. Algorithm | Encr. Key Size | Current Bytes
 | - | - | - | - | - | - | - | - |
 | EH | 4cbfd50 | 62.x.y.z | 83.x.y.z | sha1 | aes cbc | 128 | 15540	
-| EH | c0a27199 | 83.x.y.z | 62.x.y.z | sha1 | aes cbc | 128 | 13440	
+| EH | c0a27199 | 83.x.y.z | 62.x.y.z | sha1 | aes cbc | 128 | 13440
+
+## Ping
+* You should be able to ping both ways now.
