@@ -79,7 +79,7 @@
 | Dst. Port | empty
 | Protocol | 255 (all)
 | Action | encrypt
-| Level | require
+| Level | unique (this was require, but to establish connection with multiple network subnets it needs to be "unique". More information in https://blog.bravi.org/?p=1209
 | IPsec Protocols | esp
 | Tunnel | checked
 | SA Src. Address | Mikrotik WAN address
