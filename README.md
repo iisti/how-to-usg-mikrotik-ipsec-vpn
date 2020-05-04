@@ -96,8 +96,8 @@
 
 * Move the rule to the top of the firewall rules.
 
-## USG configuration
-### Settings -> Networks -> Create New Network
+## USG configuration (version 5.12.35)
+### Settings -> VPN -> Create New VPN Connection
 | Configurations | |
 | - | - |
 | Name| mikrotik-usg-vpn |
