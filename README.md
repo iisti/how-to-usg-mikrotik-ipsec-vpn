@@ -35,7 +35,7 @@
 | Proposal Check | obey
 | Lifetime | 1d 00:00:00
 | Lifebytes | empty
-| Nat Traversal | uncheck
+| Nat Traversal | uncheck (or check?)
 | DPD Interval | 60s
 | DPD Maximum Failures | 5
 
